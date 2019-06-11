@@ -1,2 +1,2 @@
-# ImagesAndPython
-my examples of work with images using python
+# WORK WITH PYTHON
+my examples of work with images, creating functions
